@@ -1,0 +1,26 @@
+wallpapers.json
+[
+  {
+    "url": "https://picsum.photos/id/1011/500/800",
+    "category": "Nature"
+  },
+  {
+    "url": "https://picsum.photos/id/1025/500/850",
+    "category": "Animals"
+  },
+  {
+    "url": "https://picsum.photos/id/1005/500/700",
+    "category": "Urban"
+  },
+  {
+    "url": "https://picsum.photos/id/1043/500/750",
+    "category": "Minimal"
+  }
+][
+  {
+    "url": "https://picsum.photos/id/1011/500/800",
+    "category": "Nature"
+  }
+]
+
+first json
